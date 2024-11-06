@@ -1,0 +1,14 @@
+<interfaceDefinition version='1.2' language='vhdl' kind='component' name='MIPS'>
+  <useClause path='ieee.NUMERIC_STD.all' />
+  <useClause path='ieee.std_logic_1164.all' />
+    <portList>
+
+      <port name='CLK' direction='in' type='STD_LOGIC' kind='' />
+      <port name='RST' direction='in' type='STD_LOGIC' kind='' />
+      <port name='CS' direction='out' type='STD_LOGIC' kind='' />
+      <port name='WE' direction='out' type='STD_LOGIC' kind='' />
+      <port name='ADDR' direction='out' type='UNSIGNED (31 downto 0)' kind='array' library='work' package='MIPS' packedDimension='(31 downto 0)' />
+      <port name='Mem_Bus' direction='inout' type='UNSIGNED (31 downto 0)' kind='array' library='work' package='MIPS' packedDimension='(31 downto 0)' />
+
+    </portList>
+</interfaceDefinition>

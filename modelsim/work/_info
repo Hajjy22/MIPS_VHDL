@@ -1,0 +1,208 @@
+m255
+K3
+13
+cModel Technology
+dC:\altera\13.0sp1
+Ecomplete_mips
+Z0 w1705683588
+Z1 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dD:\SESnum\projects\FPGA\MIPS_VHDL
+Z5 8D:/SESnum/projects/FPGA/MIPS_VHDL/Complete_MIPS.vhd
+Z6 FD:/SESnum/projects/FPGA/MIPS_VHDL/Complete_MIPS.vhd
+l0
+L4
+V`;3g[YCmUkH6U1e6d94hU3
+Z7 OV;C;10.1d;51
+32
+Z8 !s108 1706102185.540000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/SESnum/projects/FPGA/MIPS_VHDL/Complete_MIPS.vhd|
+Z10 !s107 D:/SESnum/projects/FPGA/MIPS_VHDL/Complete_MIPS.vhd|
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+!s100 n@LHSgAaU@Kh;aT_09@3;2
+!i10b 1
+Amodel
+R1
+R2
+R3
+DEx4 work 13 complete_mips 0 22 `;3g[YCmUkH6U1e6d94hU3
+l21
+L8
+VW`mV=K>8_:[Ym46QjPQF=1
+!s100 Nee@o@joWZzake?R[]7X_2
+R7
+32
+R8
+R9
+R10
+R11
+R12
+!i10b 1
+Ememory
+Z13 w1705682802
+R1
+R2
+R3
+R4
+Z14 8D:/SESnum/projects/FPGA/MIPS_VHDL/Memory.vhd
+Z15 FD:/SESnum/projects/FPGA/MIPS_VHDL/Memory.vhd
+l0
+L4
+V]E9:iY9W62:_aSb?KAc@o0
+R7
+32
+Z16 !s108 1706102183.846000
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/SESnum/projects/FPGA/MIPS_VHDL/Memory.vhd|
+Z18 !s107 D:/SESnum/projects/FPGA/MIPS_VHDL/Memory.vhd|
+R11
+R12
+!s100 5XO4fEzL1S8:7DSL0WNDH1
+!i10b 1
+Ainternal
+R1
+R2
+R3
+DEx4 work 6 memory 0 22 ]E9:iY9W62:_aSb?KAc@o0
+l13
+L9
+V>VzRUFa0PMUB<OM@zZ>`_0
+R7
+32
+R16
+R17
+R18
+R11
+R12
+!s100 FWbP5I<cnO6zm6`hMcLD00
+!i10b 1
+Emips
+Z19 w1706102185
+R1
+R2
+R3
+R4
+Z20 8D:/SESnum/projects/FPGA/MIPS_VHDL/MIPS.vhd
+Z21 FD:/SESnum/projects/FPGA/MIPS_VHDL/MIPS.vhd
+l0
+L4
+V[Eh1`_a90iPHkgDR]G^^02
+R7
+32
+Z22 !s108 1706102185.400000
+Z23 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/SESnum/projects/FPGA/MIPS_VHDL/MIPS.vhd|
+Z24 !s107 D:/SESnum/projects/FPGA/MIPS_VHDL/MIPS.vhd|
+R11
+R12
+!s100 N]iKDY3^5XS=ekHbDFIng1
+!i10b 1
+Astructure
+R1
+R2
+R3
+DEx4 work 4 mips 0 22 [Eh1`_a90iPHkgDR]G^^02
+l44
+L10
+V4Q62@Y57WFCPDLDR83HGD1
+R7
+32
+R22
+R23
+R24
+R11
+R12
+!s100 9I:DSTfFc^c[>=JedJ<gM3
+!i10b 1
+Emips_testbench
+Z25 w1705776199
+R1
+R2
+R3
+R4
+Z26 8D:/SESnum/projects/FPGA/MIPS_VHDL/MIPS_Testbench.vhd
+Z27 FD:/SESnum/projects/FPGA/MIPS_VHDL/MIPS_Testbench.vhd
+l0
+L4
+V;?dRQjd8:?@>jbOOnzUz32
+!s100 j7S`hEbUBH8l`oCmz1`=h0
+R7
+32
+!i10b 1
+Z28 !s108 1706102185.745000
+Z29 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/SESnum/projects/FPGA/MIPS_VHDL/MIPS_Testbench.vhd|
+Z30 !s107 D:/SESnum/projects/FPGA/MIPS_VHDL/MIPS_Testbench.vhd|
+R11
+R12
+Atest
+R1
+R2
+R3
+Z31 DEx4 work 14 mips_testbench 0 22 ;?dRQjd8:?@>jbOOnzUz32
+l54
+L6
+Z32 VJBXNHz_Fhn1:KXPIWSQY;3
+Z33 !s100 bHcS2YU1JjUTm]K>EBz;X1
+R7
+32
+!i10b 1
+R28
+R29
+R30
+R11
+R12
+Amips_testbench_arch
+R3
+R2
+R1
+DEx4 work 14 mips_testbench 0 22 6n1AmPeYYR:OMhB5Pa<Bh0
+l28
+L7
+VMWE3EClzjc744iOn87N:o2
+R7
+32
+R29
+R11
+R12
+w1705686481
+Z34 !s107 D:/SESnum/projects/FPGA/MIPS_VHDL/MIPS_Testbench.vhd|
+!s108 1705686460.828000
+!s100 gbhYF2B^WUL0PZV5I?bgZ1
+!i10b 1
+Ereg
+Z35 w1705682733
+R1
+R2
+R3
+R4
+Z36 8D:/SESnum/projects/FPGA/MIPS_VHDL/REG.vhd
+Z37 FD:/SESnum/projects/FPGA/MIPS_VHDL/REG.vhd
+l0
+L2
+VG^77S69<3f5ZYn6M>b]960
+R7
+32
+Z38 !s108 1706102183.708000
+Z39 !s90 -reportprogress|300|-work|work|-2002|-explicit|D:/SESnum/projects/FPGA/MIPS_VHDL/REG.vhd|
+Z40 !s107 D:/SESnum/projects/FPGA/MIPS_VHDL/REG.vhd|
+R11
+R12
+!s100 g]?TSf3WI3Tz_2Sc;KJGZ3
+!i10b 1
+Abehavioral
+R1
+R2
+R3
+DEx4 work 3 reg 0 22 G^77S69<3f5ZYn6M>b]960
+l12
+L9
+V;z8:c3>_O>9SSH2[oLboF3
+R7
+32
+R38
+R39
+R40
+R11
+R12
+!s100 1IXM35B;@1mWMea5KVIED3
+!i10b 1
